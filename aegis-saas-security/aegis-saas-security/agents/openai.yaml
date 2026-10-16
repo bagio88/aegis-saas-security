@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aegis — Sécurité SaaS"
+  short_description: "Sécuriser les SaaS, API et microservices"
+  default_prompt: "Utilise $aegis-saas-security pour sécuriser cette fonctionnalité SaaS et vérifier ses contrôles d’accès, ses sessions et son isolation multi-tenant."

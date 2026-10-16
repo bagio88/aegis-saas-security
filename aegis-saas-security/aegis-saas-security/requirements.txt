@@ -1,0 +1,2 @@
+# Dépendance de développement pour la validation YAML du skill.
+PyYAML>=6.0.2,<7
